@@ -1,177 +1,290 @@
-Lokmont - Simple & Minimal Theme for Jekyll
-=======
-<p>Lokmont is a simple and completely responsive theme for Jekyll, suitable for any kind of bloggers and writers. It was created to be minimal, clean and at the same time functional.</p>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5f205b3a-73c2-472c-b052-82b95bdf36b7/deploy-status)](https://app.netlify.com/sites/sleepy-bhabha-00eedf/deploys)
 
-Table of Contents
------------------
+### Hey guys, how are you? 🍽 🇧🇷
 
-*   [Demo](#demo)
-*   [Features](#features)
-*   [Deployment](#deployment)
-*   [Posts](#posts)
-*   [Other Authors](#authors)
-*   [Disqus Comments](#disqus)
-*   [Google Analytics](#analytics)
-*   [Update favicon](#favicon)
-*   [Credits](#credits)
-*   [License](#license)
-*   [Donate](#donate)
+As you know, this is a 100% free template, I earn nothing to maintain it. So, I have this idea and hope you can join me for a good cause.
 
-* * *
+Every donation that I receive from this project from now on (04/11/21), I'll donate to NGOs that work against hunger in Brazil.
 
-### Demo
+If you feel the template is worth it and you could help people in need, here is the link:
 
-Check the theme in action [Demo](https://lokmont-jekyll.netlify.com/)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SAKL66RSDGH48&source=url)
 
-![Main page preview](https://github.com/artemsheludko/lokmont/blob/master/images/home-page.jpg?raw=true)
+Thank you!
 
-The post page would look like this:
+# Jekflix Template
 
-![Post page preview](https://github.com/artemsheludko/lokmont/blob/master/images/post-page.jpg?raw=true)
+![Jekflix Template Cover Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
 
-* * *
+See the [demo here](https://jekflix.rossener.com/).
 
-### Features
+## What is it?
 
-* 100% responsive and clean theme
-* Optimized for mobile devices
-* Minimal design
-* Valid HTML5 code
-* Included site search
-* Contact Page
-* Post sharing
-* Supports Mail Chimp Subscriber
-* Supports Disqus Comments
-* Social Media Profiles
-* Formspree form
-* Font Awesome fonts
-* Google Fonts
+A theme for Jekyll inspired by Netflix panel for who loves movies and series and would like to have a blog with this cool appearance.
 
-* * *
+![Jekflix Screenshot Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566390829/jekflix-screenshot-2_zfiog2.jpg)
 
-### Deployment
+## Features
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
+- [Live Search](https://github.com/thiagorossener/jekflix-template/wiki/Features#live-search)
+- [Estimated Reading Time](https://github.com/thiagorossener/jekflix-template/wiki/Features#estimated-reading-time)
+- [Reading Progress Bar](https://github.com/thiagorossener/jekflix-template/wiki/Features#reading-progress-bar) *(optional)*
+- ["New Post" tag](https://github.com/thiagorossener/jekflix-template/wiki/Features#new-post-tag)
+- [Load images on demand](https://github.com/thiagorossener/jekflix-template/wiki/Features#load-images-on-demand)
+- [Push Menu](https://github.com/thiagorossener/jekflix-template/wiki/Features#push-menu)
+- [SVG icons](https://github.com/thiagorossener/jekflix-template/wiki/Features#svg-icons)
+- [Shell script to create posts](https://github.com/thiagorossener/jekflix-template/wiki/Features#shell-script-to-create-posts)
+- [Tags page](https://github.com/thiagorossener/jekflix-template/wiki/Features#tags-page)
+- [About page](https://github.com/thiagorossener/jekflix-template/wiki/Features#about-page)
+- [Contact page](https://github.com/thiagorossener/jekflix-template/wiki/Features#contact-page)
+- [404 error page](https://github.com/thiagorossener/jekflix-template/wiki/Features#404-error-page)
+- [Feed RSS](https://github.com/thiagorossener/jekflix-template/wiki/Features#feed-rss)
+- [Disqus](https://github.com/thiagorossener/jekflix-template/wiki/Features#disqus) *(optional)*
+- [Featured post](https://github.com/thiagorossener/jekflix-template/wiki/Features#featured-post) *(optional)*
+- [Home page pagination](https://github.com/thiagorossener/jekflix-template/wiki/Features#home-page-pagination) *(optional)*
+- [Posts sidebar](https://github.com/thiagorossener/jekflix-template/wiki/Features#posts-sidebar) *(optional)*
+- [Paginated posts](https://github.com/thiagorossener/jekflix-template/wiki/Features#paginated-posts) *(optional)*
+- ["Before you go" modal](https://github.com/thiagorossener/jekflix-template/wiki/Features#before-you-go-modal) *(optional)*
+- [Post recommendation](https://github.com/thiagorossener/jekflix-template/wiki/Features#post-recommendation)
+- [Netlify CMS ready](https://github.com/thiagorossener/jekflix-template/wiki/Features#netlify-cms-ready)
+- [Translations](https://github.com/thiagorossener/jekflix-template/wiki/setup#translations) **new!**
+- [Math Expressions](https://github.com/thiagorossener/jekflix-template/wiki/Features#math-expressions) *(optional)* **new!**
 
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+## SEO
 
-* * *
+- Google Analytics
+- Meta tags
+- JSON-LD
+- Sitemap.xml
+- Social Media ready
 
-### Posts
+## Quick Install
 
-To create a new post, you can create a new markdown file inside the _posts directory by following the [recommended file structure](https://jekyllrb.com/docs/posts/#creating-post-files).
+In the case you're installing to existing Jekyll project, add this line to your project's `Gemfile`:
 
-```sh
-  ---
-  layout: post
-  title: 10 Best books of all time
-  date: 2017-10-27 18:09:50 +0300
-  img: 17.jpg
-  tags: [Books, Hobby]
-  author: Natali_Braxton # Optional
-  ---
-```        
+```
+gem "jekflix"
+```
 
-You can set the tags, author and the post image.
+Add this line to your project's `_config.yml`:
 
-Add post images to **/images/pages/** directory.
+```
+theme: jekflix
+```
 
-For tags, try to not add space between two words, for example, `Ruby on Rails`, could be something like (`ruby-on-rails`, `Ruby_on_Rails`, or `Ruby-on-Rails`).
+And then run:
 
-* * *
+```
+$ bundle
+```
 
-### Authors
+Or install it yourself as:
 
-You can add other authors for your posts. In the beginning, create the author in the file `_config.yml`
+```
+$ gem install jekflix
+```
 
-**For example:**
+### Theme Colors
 
-```sh
-  # Other Authors - here you can add Other authors. For example Natali_Braxton
+Create the file `/assets/css/styles.scss` and add:
+
+```
+---
+---
+
+$themeColor: #ff0a16;
+$primaryDark: #141414;
+$accentDark: #ffffff;
+$lightGray: #f2f2f2;
+$texts: #333333;
+
+@import "jekflix";
+```
+
+Modify the variables above to change your theme colors.
+
+### Site configuration
+
+Below are some properties you can change in your project `_config.yml`, check the [documentation](https://github.com/thiagorossener/jekflix-template/wiki/settings) for more details.
+
+```
+# Site Settings
+name: Jekflix
+title: Jekflix | A blog theme for Jekyll
+description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+email: youremail@xyz.com
+disqus_username: disqus_username
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
+
+# Social Media Settings
+# Remove the item if you don't need it
+github_username: github_username
+facebook_username: facebook_username
+twitter_username: twitter_username
+instagram_username: instagram_username
+linkedin_username: linkedin_username
+medium_username: medium_username
+
+# Posts Settings
+show_time_bar: true
+show_modal_on_exit: false
+show_modal_on_finish_post: true
+two_columns_layout: true
+
+# Advanced Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+language: "en"
+categories_folder: category
+sent_message_url: "/contact/message-sent/"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+collections:
   authors:
-    Natali_Braxton:
-      author-name: Natali Braxton
-      author-image: 111.jpg
-      about-author: My name is Natali Braxton. I love walking, I play the guitar in my spare time. And also write articles about different technologies.
-      author-email: natali.example@gmail.com
-      author-twitter: https://twitter.com/
-      author-facebook: https://twitter.com/
-      author-instagram: https://www.instagram.com/
-      author-pinterest: https://pinterest.com/
+    output: true
+paginate_path: "/page/:num/"
+show_get_theme_btn: true
+use_logo: false
+
+# Content paginator
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: "--page-break--"
+  permalink: "/:num/"
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
+
+# SASS
+sass:
+  style: compressed
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
 ```
 
-Then add the author in a post. Save and you are done.
+## Setup
 
-```sh
-  ---
-  layout: post
-  title: 10 Best books of all time
-  date: 2017-10-27 18:09:50 +0300
-  img: 17.jpg
-  tags: [Books, Hobby]
-  author: Natali_Braxton
-  ---
-```
+In the case you're cloning this repo, follow those instructions:
 
-* * *
+- [Environment](https://github.com/thiagorossener/jekflix-template/wiki/setup#environment)
+- [Installing template](https://github.com/thiagorossener/jekflix-template/wiki/setup#installing-template)
+- [Running local](https://github.com/thiagorossener/jekflix-template/wiki/setup#running-local)
 
-### Disqus
+### Customization
 
-Lokmont Theme comes with Disqus comments enabled.
+See the [settings documentation](https://github.com/thiagorossener/jekflix-template/wiki/settings) to customize layout, titles, social media and more.
 
-Open `_config.yml` file, and change the `mr-brown` value on line 52 with your [Disqus account shortname](https://help.disqus.com/customer/portal/articles/466208).
+### Theme
 
-```sh
-  # Comment Section (Disqus)
-  disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
-```     
+You can easily change the theme colors by changing the file `src/yml/theme.yml`, then running `gulp build` in your terminal.
 
-That’s all you need to setup Disqus from the theme side. If you get any issue regarding that comments are unable to load. First, make sure you have [registered your website with Disqus (Step 1)](https://help.disqus.com/customer/portal/articles/466182-publisher-quick-start-guide).
+#### GitHub pages
 
-And also check [Disqus troubleshooting guide](https://help.disqus.com/customer/portal/articles/472007-i-m-receiving-the-message-%22we-were-unable-to-load-disqus-%22) if you still have issues.
+It's a known issue that you can't run Gulp when deploying the website into GitHub pages. So, you must change the theme colors and run `gulp build` locally, then push the changes into your repo, there is no other way.
 
-* * *
+To see how your website is going to look like when you deploy it, run `bundle exec jekyll serve` locally and access `http://127.0.0.1:4000/`.
 
-### Analytics
+## Posts
 
-To integrate Google Analytics, open `_config.yml`, and add your Google Analytics identifier.
-```sh
-  # Google Analytics
-  google-analytics: # Add your identifier. For example UA-99631805-1
-```     
+Use the [Front Matter properties](https://github.com/thiagorossener/jekflix-template/wiki/post#front-matter-properties) to create posts.
 
-* * *
+> **Note:** In the case you're cloning this repo, you can use the available [script](https://github.com/thiagorossener/jekflix-template/wiki/post#creating-a-post) to generate posts automatically.
 
-### Favicon
+## Release notes
 
-You can find the current favicon (favicon.ico) inside the theme root directory, just replace it with your new favicon.
+### v3.1.1
 
-* * *
+- Added `formspree_form_id` config
+- Bumped up dependencies
+- Fixed minor bugs
 
-### Credits
+### v3.1.0
 
-We have used the following scripts, fonts or other files as listed.
+- Fixed hero URL, thanks to [@JoelSalzesson](https://github.com/JoelSalzesson)
+- Updated Google Analytics script, thanks to [@JHLeeeMe](https://github.com/JHLeeeMe)
+- Added MathJax library to render math expressions, thanks to [@XieGuochao](https://github.com/XieGuochao)
 
-*   [Google Fonts](https://fonts.google.com/) (Dancing+Script, PT+Serif, Lato, Roboto).
-*   [Font Awesome](https://fontawesome.com/v4.7.0/)
-*   [FitVids.js](http://fitvidsjs.com/)
-*   [jQuery-viewport-checker](https://github.com/dirkgroenen/jQuery-viewport-checker)
-*   [Zoom](https://github.com/fat/zoom.js)
-*   [Transition](http://getbootstrap.com/javascript/#transitions)
-*   [jQuery.com](https://jquery.com/)
-*   [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search)
-*   Preview Images [unsplash.com](https://unsplash.com/), [pexels.com](https://www.pexels.com/)
+### v3.0.2
 
-* * *
+- Added assets folder
 
-### License
+### v3.0.1
 
-MIT License
+- Fixed post SVG icons
 
-* * *
+### v3.0.0
 
-### Donate
+- Created theme `gem`
+- Enabled text translations
+- Added heading anchor links
+- Changed code highlight colors
+- Changed from Stylus to SASS
 
-<p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
-<p>Either way, your support is a way to thank me ❤️</p>
-<p align="center"><b>Thank you for your support!</b></p>
+### v2.0.1
+- Fixed bugs
+- Optimized to support disabled JS
+
+### v2.0.0
+- Added optional [sidebar](https://github.com/thiagorossener/jekflix-template/wiki/Features#posts-sidebar)
+- Added optional [Featured post](https://github.com/thiagorossener/jekflix-template/wiki/features#featured-post)
+- Added optional ["Before you go" modal](https://github.com/thiagorossener/jekflix-template/wiki/features#before-you-go-modal)
+- Added optional [post pagination](https://github.com/thiagorossener/jekflix-template/wiki/features#paginated-posts)
+- Added [post recommendation](https://github.com/thiagorossener/jekflix-template/wiki/features#post-recommendation)
+- Added meta keywords to improve SEO
+- Added JSON-LD to improve SEO
+- Changed pagination to be [optional](https://github.com/thiagorossener/jekflix-template/wiki/features#home-page-pagination)
+- Improved [Tags page](https://github.com/thiagorossener/jekflix-template/wiki/features#tags-page)
+- Cleaned up and improved [Front Matter properties](https://github.com/thiagorossener/jekflix-template/wiki/post#front-matter-properties)
+- Set up [Netlify CMS](https://github.com/thiagorossener/jekflix-template/wiki/features#netlify-cms-ready)
+- Improved customization settings
+- Minor design updates
+
+### v1.0.1
+- Fixed bugs
+- Upgraded to Gulp 4
+
+### v1.0.0
+- Initial release
+
+## Questions?
+
+File a [GitHub issue](https://github.com/thiagorossener/jekflix-template/issues/new) please.
+
+## Author
+
+[Thiago Rossener](https://rossener.com/)
+
+## License
+
+*Jekflix Template* is available under the MIT license. See the [LICENSE](https://github.com/thiagorossener/jekflix-template/blob/master/LICENSE) file for more info.

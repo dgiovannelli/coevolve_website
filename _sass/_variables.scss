@@ -1,16 +1,24 @@
-$white: #ffffff;
-$grayish: #f7f7f7;
-$lightengray: #787878;
-$gray: #5b5b5b;
-$darkgray: #323232;
-$black: #000000;
+/**
+ * Set up here the general appearance of the theme.
+ */
 
-$blue: #0078d9;
-$blue-highlighted: rgba(0, 120, 217, 0.7);
-$blue-transparency: rgba(206, 230, 255, 0.5);
-$grayblue: #7b7f90;
-$lightblue: #bbc3cb;
-$lightpurple: #999eb5;
+$themeColor: map-get($theme, themeColor) !default;
+$primaryDark: map-get($theme, primaryDark) !default;
+$accentDark: map-get($theme, accentDark) !default;
+$lightGray: map-get($theme, lightGray) !default;
+$texts: map-get($theme, texts) !default;
 
-$turquoisergba: rgba(0, 197, 217, 0.6);
-$light-turquoisergba: rgba(0, 197, 217, 0.1);
+// Breakpoints
+$breakpoints: (
+  sm: 37.5rem
+);
+
+// Margins
+$rowMargin: 10px;
+$itemMargin: 15px;
+
+// Sizes
+$itemMinWidth: 300px;
+
+// Settings
+$maxItemsPerRow: 6;

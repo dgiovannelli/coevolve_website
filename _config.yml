@@ -1,78 +1,108 @@
-# Site settings
-title: Lokmont
-description: Lokmont is a responsive simple theme for Jekyll.
+# Site Settings
+name: Jekflix
+title: Jekflix | A blog theme for Jekyll
+description: Jekflix is a template for Jekyll inspired by Netflix and made by
+  Thiago Rossener.
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
+email: youremail@test.com
+# See: https://disqus.com/
+disqus_username: disqus_username
+# Contact Form Setting
+# See: https://formspree.io/
+formspree_form_id: formspree_form_id
+
+
+# Social Media Settings
+# Remove the item if you don't need it
+github_username: github_username
+facebook_username: facebook_username
+twitter_username: twitter_username
+instagram_username: instagram_username
+linkedin_username: linkedin_username
+medium_username: medium_username
+
+
+# Posts Settings
+show_time_bar: true
+show_modal_on_exit: false
+show_modal_on_finish_post: true
+two_columns_layout: true
+
+
+# Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lokmont-jekyll.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+language: "en"
+categories_folder: category
+sent_message_url: "/contact/message-sent/"
 
-# Banner Section
-hero: 112.jpg
-hero-title: Welcome to Lokmont
-hero-description: A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.
-
-# Author - Creator
-author-name: Ben Campbell
-author-image: 10.jpg
-about-author: My name is Ben Campbell. I'm an actor and a musician. Retro wolf banjo succulen tsgoch ujang tumeric hammock offal.
-author-email: help.example@gmail.com
-author-twitter: https://twitter.com/
-author-facebook: https://twitter.com/
-author-instagram: https://www.instagram.com/
-author-pinterest: https://pinterest.com/
-
-# Other Authors - here you can add Other authors. For example Natali_Braxton
-authors:
-  Natali_Braxton:
-    author-name: Natali Braxton
-    author-image: 111.jpg
-    about-author: My name is Natali Braxton. I love walking, I play the guitar in my spare time. And also write articles about different technologies.
-    author-email: natali.example@gmail.com
-    author-twitter: https://twitter.com/
-    author-facebook: https://twitter.com/
-    author-instagram: https://www.instagram.com/
-    author-pinterest: https://pinterest.com/
-
-# Social Media Links (Links are located in hero and footer)
-twitter: https://twitter.com/
-facebook: https://facebook.com/
-google-plus: https://plus.google.com/
-instagram: https://www.instagram.com/
-pinterest: https://pinterest.com/
-youtube: https://www.youtube.com/
-
-# Contact Form Settings
-contact-subtitle: Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Kogi cornhole enamel. # Title for the subscription form.
-
-# Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
-
-# Newsletter
-mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
-
-# Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
-permalink: pretty
-paginate: 9
-paginate_path: "/page/:num"
+highlighter: rouge
+permalink: /:title/
+collections:
+  authors:
+    output: true
+paginate_path: "/page/:num/"
+show_get_theme_btn: true
+use_logo: false
 
-# Pages path
-defaults:
-  - scope:
-      path: '_pages'
-    values:
-      permalink: /:basename:output_ext
+# Content paginator
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: "--page-break--"
+  permalink: "/:num/"
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
 
+# SASS
+sass:
+  style: compressed
+
+# Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-feed
+  - jekyll-paginate-content
 
-include:
-  - _pages
+# Exclude my node related stuff
+exclude: [
+  'package.json',
+  'package-lock.json',
+  'src',
+  'node_modules',
+  'initpost.sh',
+  'Gemfile',
+  'Gemfile.lock',
+  'gulpfile.js',
+  'README.md'
+]
 
-# Exclude from processing.
-exclude:
- - Gemfile
- - Gemfile.lock
- - vendor
+# Theme
+version: v3.1.1
