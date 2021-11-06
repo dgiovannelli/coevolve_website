@@ -1,11 +1,13 @@
 ---
 layout: page
+menu: false
+date: '2020-02-27 01:53:59'
 title: About
-description: Some description.
 permalink: /about/
+description: Some description.
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/teampic/dg.jpg" alt="Donato Giovannelli" width="200">
 
 # About
 

@@ -3,11 +3,11 @@ name: CoEvolve project
 title: CoEvolve project | The website of the ERC funded project CoEvolve
 description: The website of the ERC funded project CoEvolve
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - science
+  - co-evolution
+  - ERC Starting Grant
+  - Giovannelli Lab
+  - microbiology
 show_hero: true
 menu:
   - title: Home
@@ -18,12 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-# See: https://disqus.com/
-disqus_username: disqus_username
-# Contact Form Setting
-# See: https://formspree.io/
-formspree_form_id: formspree_form_id
+email: donato.giovannelli@unina.it
 
 
 # Social Media Settings
@@ -42,7 +37,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.coevolve.eu" # the base hostname & protocol for your site
+url: "https://www.coevolve.eu/" # the base hostname & protocol for your site
 google_analytics: "G-WLWEDBWSZZ"
 language: "en"
 categories_folder: category

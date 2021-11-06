@@ -1,13 +1,12 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: CoEvolve project
+title: CoEvolve project | The website of the ERC funded project CoEvolve
+description: The website of the ERC funded project CoEvolve
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - science
+  - co-evolution
+  - ERC Starting Grant
+  - Giovannelli Lab
+  - microbiology
 show_hero: true
 menu:
   - title: Home
@@ -18,9 +17,4 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
-# See: https://disqus.com/
-disqus_username: disqus_username
-# Contact Form Setting
-# See: https://formspree.io/
-formspree_form_id: formspree_form_id
+email: donato.giovannelli@unina.it
