@@ -2,13 +2,12 @@
 date: 2021-11-06T20:00:05.000Z
 layout: post
 title: Lorem Ipsum post 1
-subtitle: 'A test of the new post system to be used on the CoEvolve website'
+subtitle: 'Test test of the new post system to be used on the CoEvolve website'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
-image: /assets/img/teampic/dg.jpg
-optimized_image: >-
-
+image: /assets/img/uploads/image1.png
+optimized_image:
 category: news
 tags:
   - news
