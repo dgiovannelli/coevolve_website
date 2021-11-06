@@ -6,8 +6,7 @@ subtitle: 'A test of the new post system to be used on the CoEvolve website'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
-image: >-
-  https://coevolve.eu/assets/img/uploads/image1.png
+image: /assets/img/teampic/dg.jpg
 optimized_image: >-
 
 category: news
