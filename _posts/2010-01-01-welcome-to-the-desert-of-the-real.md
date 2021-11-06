@@ -7,7 +7,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://github.com/dgiovannelli/coevolve_website/tree/gh-pages/assets/img/uploads/image1.png
+  https://coevolve.eu/assets/img/uploads/image1.png
 optimized_image: >-
 
 category: news
