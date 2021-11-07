@@ -9,7 +9,7 @@
 }
 
 footer {
-  @include center(rem(1920px));
+  @include center(100%);
   border-top: 1px solid darken($accentDark, 10%);
   background: $accentDark;
   padding: rem(20px) rem(25px);
