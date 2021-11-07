@@ -33,12 +33,14 @@
 
 .box-item {
   flex: 1 0 $itemMinWidth;
+  background: $secondaryDark;
   margin: 0 0 rem(30px);
   display: inline-block;
   min-height: rem(285px);
   transition: all 0.3s;
   position: relative;
   z-index: 1;
+  overflow: hidden;
 
   @include media(">=sm") {
     margin: 0 rem($itemMargin) rem(30px);
@@ -60,12 +62,12 @@
 
   &:hover {
     z-index: 2;
-    transform: scale(1.1);
+    transform: scale(1.05);
 
     img {
-      -webkit-filter: grayscale(100%);
-      filter: grayscale(100%);
-      transform: scale(1.05);
+      transition: transform .4s;   /* smoother zoom */
+      transform: scale(1.10);
+      transform-origin: 50% 50%
     }
 
     .box-body {

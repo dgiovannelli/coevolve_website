@@ -279,6 +279,10 @@ collections:
             name: "themeColor"
             widget: "color"
             default: "#ff0a16"
+          - label: "Sky Dark"
+            name: "skyDark"
+            widget: "color"
+            default: "#335e6f"
           - label: "Primary Dark Color"
             name: "primaryDark"
             widget: "color"
@@ -302,7 +306,7 @@ collections:
           - label: "Show time bar in posts"
             name: "show_time_bar"
             widget: "boolean"
-            default: true
+            default: false
           - label: "Show modal on exit"
             name: "show_modal_on_exit"
             widget: "boolean"
@@ -511,5 +515,3 @@ collections:
             name: "sent_message_url"
             hint: "URL where the user will be redirected for after submit the contact form. Ex: /contact/message-sent/"
             required: false
-
-

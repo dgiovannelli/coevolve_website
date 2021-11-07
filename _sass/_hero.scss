@@ -25,7 +25,7 @@
   }
 
   .gradient {
-    background-image: linear-gradient(0deg, rgba(20, 20, 20, 1) 5%, rgba(0, 0, 0, 0) 30%);
+    background-image: linear-gradient(0deg, rgba(11, 29, 38, 1) 5%, rgba(0, 0, 0, 0) 30%);
   }
 
   .content {
@@ -88,16 +88,15 @@
       }
 
       &:hover {
-        background-color: rgba(255, 255, 255, 0.5);
+        background-color: $themeColor;
         box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.2);
       }
 
       svg {
-        width: rem(25px);
-        height: rem(25px);
+        width: rem(20px);
+        height: rem(20px);
         margin-right: rem(10px);
         vertical-align: middle;
-        color: $themeColor;
       }
 
       span {

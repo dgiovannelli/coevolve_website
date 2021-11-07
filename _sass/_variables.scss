@@ -7,6 +7,14 @@ $primaryDark: map-get($theme, primaryDark) !default;
 $accentDark: map-get($theme, accentDark) !default;
 $lightGray: map-get($theme, lightGray) !default;
 $texts: map-get($theme, texts) !default;
+$skyDark: map-get($theme, skyDark) !default;
+$secondaryDark: map-get($theme, secondaryDark) !default;
+$blueGray: map-get($theme, blueGray) !default;
+$accentOrange: map-get($theme, accentOrange) !default;
+$accentRed: map-get($theme, accentRed) !default;
+$accentBlue: map-get($theme, accentBlue) !default;
+$accentAqua: map-get($theme, accentAqua) !default;
+
 
 // Breakpoints
 $breakpoints: (
