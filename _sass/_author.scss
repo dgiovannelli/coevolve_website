@@ -25,7 +25,7 @@
   }
 
   a {
-    fill: darken($lightGray, 30%);
+    fill: $themeColor;
     text-decoration: none;
     border: none;
     transition: all 0.3s;
