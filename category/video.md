@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Laboratory
-slug: laboratory
+title: Video
+slug: video
 description: A category for laboratory related posts.
 ---

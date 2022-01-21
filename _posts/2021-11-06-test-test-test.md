@@ -1,16 +1,17 @@
 ---
-date: 2018-10-09 12:26:40
+date: 2021-11-10 12:26:40
 layout: post
-title: Neque porro quisquam est qui dolorem ipsum
-subtitle: 'Neque porro quisquam est qui dolorem ipsum '
+title: Test test of the new post system
+subtitle: 'Test test of the new post system to be used on the CoEvolve website'
 description: >-
   Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
-image: /assets/img/uploads/image3.jpg
+image: /assets/img/uploads/image6.jpg
 optimized_image:
 category: news
 tags:
   - news
-  - expedition
+  - laboratory
+  - events
 author: donatogiovannelli
 paginate: false
 ---
@@ -28,7 +29,3 @@ Suspendisse auctor accumsan massa at sodales. Mauris in eros ac sapien molestie 
 Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec at leo nisl. Fusce vulputate turpis vel nibh finibus, quis auctor ante gravida. Morbi semper imperdiet quam, quis dapibus mauris varius ac. Donec venenatis justo quis nulla elementum laoreet. Morbi quis metus eleifend, malesuada nisi tempor, placerat velit. Integer sodales in nunc non molestie.
 
 Proin arcu neque, sollicitudin nec mollis non, mollis et nibh. Sed vitae est euismod, semper sem eu, tincidunt urna. Donec id sem vel metus tincidunt sollicitudin. Vestibulum neque felis, tincidunt quis dapibus in, interdum nec metus. Pellentesque interdum erat ac dolor dignissim dapibus. Phasellus vitae molestie sapien. Vivamus nec felis sit amet urna fermentum vehicula ut vitae arcu.
-
-Pellentesque sagittis erat libero, quis hendrerit eros imperdiet et. Mauris nulla tortor, efficitur at venenatis in, lacinia at velit. Aliquam vel porta lacus. In ut elit eget purus commodo porta. Ut pellentesque eros nulla, nec egestas nunc congue et. Suspendisse non lacus sed leo ultrices efficitur. Fusce mi lorem, aliquet id eleifend sit amet, euismod condimentum massa. Praesent volutpat libero id velit accumsan, non sagittis mi mollis.
-
-Suspendisse sagittis ex nec justo congue, at viverra lacus euismod. Proin finibus pellentesque eros, ut fringilla turpis suscipit a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam malesuada libero at condimentum accumsan. Nam id sodales sem. Donec nisl purus, cursus quis velit eget, tincidunt sodales justo. Vestibulum quis neque et arcu lacinia finibus. Integer condimentum rhoncus leo eu tristique. Mauris et massa sit amet tortor faucibus dignissim quis eget diam.

@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Events
-slug: events
+title: Image
+slug: image
 description: A category for events related posts.
 ---

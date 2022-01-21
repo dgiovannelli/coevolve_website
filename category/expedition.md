@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Expeditions
+title: Expedition
 slug: expedition
 description: A category for expeditions related posts.
 ---

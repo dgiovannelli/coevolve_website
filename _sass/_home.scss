@@ -60,14 +60,17 @@
     flex: 1 0 calc(100%/#{$maxItemsPerRow} - #{$itemMargin * 2});
   }
 
+  .cover{
+  overflow: hidden;
+  }
+
   &:hover {
     z-index: 2;
-    transform: scale(1.05);
+    transform: translate(0px, -15px);
+    transition: all .8s ease-in-out;
 
     img {
-      transition: transform .4s;   /* smoother zoom */
-      transform: scale(1.10);
-      transform-origin: 50% 50%
+      transform: scale(1.05);
     }
 
     .box-body {
@@ -78,7 +81,7 @@
 
       .cover {
         .new-post-tag {
-          background-color: #000;
+          background-color: $themeColor;
         }
 
         .read-icon {
@@ -150,8 +153,8 @@
 
       &:hover {
         color: $primaryDark;
-        background: $accentDark;
-        border-color: $accentDark;
+        background: $themeColor;
+        border-color: $themeColor;
       }
     }
 

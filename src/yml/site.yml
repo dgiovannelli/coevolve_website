@@ -11,8 +11,18 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
-    url: /about
+  - title: Project
+    url: /project
+  - title: Team
+    url: /team
+  - title: Expeditions
+    url: /expeditions
+  - title: Educators
+    url: /educators
+  - title: Media
+    url: /media
+  - title: Scientists
+    url: /scientists
   - title: Contact
     url: /contact
 email: donato.giovannelli@unina.it
