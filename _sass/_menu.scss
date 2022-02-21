@@ -80,8 +80,8 @@ aside.sidebar {
           color: $primaryDark;
 
           &:hover {
-            color: $accentDark;
-            background: $themeColor;
+            color: $primaryDark;
+            background: $accentBlue;
           }
         }
       }

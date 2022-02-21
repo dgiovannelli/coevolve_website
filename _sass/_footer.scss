@@ -44,7 +44,7 @@ footer {
 
     &.love {
       @include size(20, 20);
-      fill: $themeColor;
+      fill: $accentBlue;
       margin-top: rem(-2px);
       margin-left: rem(3px);
       margin-right: rem(3px);
@@ -59,7 +59,7 @@ footer {
     color: $primaryDark;
 
     &:hover {
-      fill: $themeColor;
+      fill: $accentBlue;
     }
 
     &.creator:hover {
@@ -81,10 +81,15 @@ footer {
 
       &:hover {
         text-decoration: underline;
-        color: $themeColor;
+        color: $accentBlue;
       }
     }
   }
+}
+
+.sponsor {
+  float: right;
+  padding: 15px;
 }
 
 .main-page {

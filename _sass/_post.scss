@@ -76,7 +76,7 @@
 
     @include media(">=sm") {
       font-size: rem(20px);
-      line-height: rem(40px);
+      line-height: rem(30px);
       margin: rem(29px) auto 0;
     }
   }
@@ -166,7 +166,7 @@
   }
 
   a {
-    color: $themeColor;
+    color: $accentBlue;
     text-decoration: none;
 
     &:hover {
@@ -393,7 +393,7 @@
   width: 100%;
   height: 38px;
   padding: rem(30px) 0;
-  border-bottom: 1px solid $themeColor;
+  border-bottom: 1px solid $accentBlue;
   background-color: #fff;
   transition: bottom 0.5s;
 
@@ -401,7 +401,7 @@
     position: relative;
     flex: 1;
     height: rem(10px);
-    background-color: $themeColor;
+    background-color: $accentBlue;
     opacity: 0.2;
   }
 
@@ -460,7 +460,7 @@
     float: left;
     display: block;
     height: rem(5px);
-    background-color: $themeColor;
+    background-color: $accentBlue;
   }
 
   .remaining {
@@ -664,7 +664,7 @@
 
     span {
       padding: rem(3px) rem(10px);
-      background-color: $themeColor;
+      background-color: $accentBlue;
       border-radius: rem(5px);
       color: #fff;
     }

@@ -81,7 +81,7 @@
 
       .cover {
         .new-post-tag {
-          background-color: $themeColor;
+          background-color: $accentBlue;
         }
 
         .read-icon {
@@ -153,8 +153,8 @@
 
       &:hover {
         color: $primaryDark;
-        background: $themeColor;
-        border-color: $themeColor;
+        background: $accentBlue;
+        border-color: $accentBlue;
       }
     }
 
@@ -179,7 +179,7 @@
       .new-post-tag {
         text-transform: uppercase;
         display: inline-block;
-        background: $themeColor;
+        background: $accentBlue;
         color: #fff;
         font-size: rem(13px);
         font-weight: 700;
@@ -207,7 +207,7 @@
         margin-top: rem(-40px);
         margin-left: rem(-40px);
         border: 2px solid #fff;
-        color: $themeColor;
+        color: $accentBlue;
         z-index: 4;
 
         svg {
