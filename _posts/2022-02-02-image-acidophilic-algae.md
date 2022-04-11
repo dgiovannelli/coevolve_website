@@ -2,8 +2,8 @@
 date: 2022-02-02T20:00:05.000Z
 layout: post
 title: Acidofilic microbes
-subtitle: A quest to study the coevolution of Life with our Planet
-description: A quest to study the coevolution of Life with our Planet the CoEvolve project kicks off CoEvolve, the European Research Council funded project, led by microbiologist Donato Giovannelli, has officially taken off
+subtitle: Acidophilic microbes and fungi help understand the coevolution of Life and Planet
+description: Not only bacteria and the more elusive archaea, but also microscopic fungi and algae are key characters in the coevolution of Life and Earth
 image: /assets/img/uploads/2022-02-02.jpg
 optimized_image:
 category: image
