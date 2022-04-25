@@ -2,7 +2,7 @@
 date: 2022-04-11T20:00:05.000Z
 layout: post
 title: From the laboratory to the polar circle, and return
-subtitle: What it means planning a field work in a polar region, collecting samples, and bringing them back to the laboratories, safely.
+subtitle: Planning a field work in a polar region, collecting samples, and bringing them back to the laboratories - safely.
 image: /assets/img/uploads/2022-04-11-1.jpg
 optimized_image:
 category: image
@@ -24,7 +24,7 @@ A mission in the Arctic Circle requires weeks, if not months, of preparation. Th
 
 In the weeks preceding the departure, I’ve found, purchased, and prepared for shipping the equipment and instruments necessary on the field. I’ve spent a substantial amount of time studying bibliography that describes the location, to better understand the geology of the sites that had to be sampled. I looked for studies having similar aims to ours. I also spent time preparing the necessary equipment to protect us from the cold, so that we could work efficiently despite the low temperatures.  
 
-As I was the responsible of this mission, the weeks before leaving I was excited. When finally the departure date approached I started to be nervous, fearing that one mistake in preparing the equipment could compromise the work. This fear vanished when, after having forgotten an object we needed on the first day of sampling, I realized that I could fix any possible mistake. In the following days I tried to be more schematic and organized, in order to avoid forgetfulness or distraction errors, and this made me much more relaxed and focused on the job.
+As I was the responsible for this mission, the weeks before leaving I was excited. When finally the departure date approached I started to be nervous, fearing that one mistake in preparing the equipment could compromise the work. This fear vanished when, after having forgotten an object we needed on the first day of sampling, I realized that I could fix any possible mistake. In the following days I tried to be more schematic and organized, in order to avoid forgetfulness or distraction errors, and this made me much more relaxed and focused on the job.
 ![Alt text](/assets/img/uploads/2022-04-11-2.jpg "Francesco Montemagno")
 Field work is where you collect the ingredients of your research, the next step will be in the Giovanelli laboratories at the University Federico II in Naple. There we will start with laboratory analyses that may take months. In terms of microbiology, we will extract the DNA from samples, and use 16S and metagenomics analyses (which involves a particular gene or the entire genetic material of a sample with the aim of investigating the evolution and functional diversity of a specific microbial community) to give a name to the microorganisms in the samples. Next, we will look at what genes are there and what possible metabolism these organisms can use. 
 
