@@ -6,6 +6,7 @@ title: Educators
 permalink: /educators/
 description: Content and information for the educators interested in bringing the latest from our project into their classroom!
 ---
+# Educational material for the classroom!
 
 With the ERC CoEvolve project our aims are not only scientific, but educational too! One of our objective is to bring concept related to life and Planet coevolution, the importance of environmental microbes and the key role of metals for Life in the classroom at all educational level. For this, we are preparing a number of resources that can be used by teachers and instructors at all level of education to bring some science and excitement for fieldwork to their students.
 
