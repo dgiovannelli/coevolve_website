@@ -11,6 +11,8 @@ description: The project CoEvolve
 
 Over the last 4 billion years, Earth and Life have been through radical changes. A complex series of interactions between each other produced the world as we know it, from which we extract resources, and with whom life interacts continuously. Contrary to what our senses would make us think, life shaped Earth's crust, and Earth's crust shaped life. However, their changing trajectories are commonly studied separately. In CoEvolve we research how these interactions have changed over time, and how this has, in turn, influenced evolution.
 
+<img src="/assets/img/uploads/6.jpg" alt="A geothermal field in Iceland" width="100%">
+
 ## Why it is important
 The project advances our understanding of how life powers itself, and how our planet and life have coevolved over time. Our fundamental research has a number of future applications including: the bio-remediation of toxic heavy metals and polluted sites, the manipulation of the human microbiome, and new approaches to the search of life in the Universe.
 
