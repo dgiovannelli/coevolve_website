@@ -21,6 +21,10 @@ Both life and the rocky planet we know today would have been different or could 
 
 The balance that has been established between life and the planet is given by cycles, called biogeochemical cycles, with microbes playing a key role. Life and rocks engage in interactions that influence each other and keep the planet habitable. Microbes like bacteria and archaea hold a set of proteins that contain metal such as iron, copper, molybdenum and more, called *metalloenzymes*. These proteins are key to harness energy needed for survival, and are responsible for several biogeochemical reactions that allow bacteria to interact with, and transform, the environment they live in. This interactions influences the evolution of the planet. On the other hand, Earth provides the metals required by these microbial proteins, whose quantity and availability changed over time. Life and the Earth are deeply connected, in a billion-years long process of co-evolution. In this process, the relationship between metal availability and metabolism evolution has been largely overlooked and it is the main focus of the Co-Evolve project.
 
+<img src="/assets/img/uploads/hydrogenase.png" alt="A metalloenzyme responsible for hydrogen utilization containing a NiFe metal center and a number of FeS clusters" width="100%">
+
+_A metalloenzyme responsible for hydrogen utilization in thermophilic organisms containing a NiFe metal center and a number of FeS clusters._
+
 To better understand the co-evolution of the biosphere and the geosphere, we will travel to where metals reach the surface from the depths of the Earth, like hydrothermal vents and hot springs. After collecting samples, we will combine laboratory experiments and computer analysis. With the gathered information we will build models that will help us understand and predict how few epochal events can lead to massive planetary changes, such as, for example, the ones caused by the rising levels of oxygen.
 
 <img src="/assets/img/erc_flag.png" alt="ERC logo - EU flag" width="400">
