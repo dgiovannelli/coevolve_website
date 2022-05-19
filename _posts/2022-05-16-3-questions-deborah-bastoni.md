@@ -3,7 +3,7 @@ date: 2022-05-16T20:00:05.000Z
 layout: post
 title: 3 things I learned doing field work in the Atacama desert, Chile
 subtitle: Field work requires other skills than just laboratory or analytical skills.
-image: /assets/img/uploads/2022-05-16-1.jpg
+image: /assets/img/uploads/2022-05-16-4.jpg
 optimized_image:
 category: 3 Questions to
 tags:
@@ -23,7 +23,7 @@ Problem solving, dealing with others, sometimes with people you have never seen 
 
 *Deborah, what is the first thing you would share about your journey to Chile?*
 
-“I learned how to load the back of a pickup. In fact, to make 19 researchers travel more than 5000 km among the volcanoes of Chile, and to carry kilos of scientific equipment with you, you need very sturdy cars, and lots of space. To sample a large number of sites, all dozens of kilometres away from each other, we stopped for 3 or 4 days in basic lodges, trying to sample as much as possible around there. Then we moved to the next sampling area. Every time we moved from one accommodation to another, we had to load the cars with all our belongings, which regularly filled up with kilos of desert sand lifted from the cars. We also loaded petrol cans, as we have been to places where it would not be possible to find a place to refuel. 
+“I learned how to load the back of a pickup. In fact, to make 19 researchers travel more than 5000 km among the volcanoes of Chile, and to carry kilos of scientific equipment with you, you need very sturdy cars, and lots of space. To sample a large number of sites, all dozens of kilometres away from each other, we stopped for 3 or 4 days in basic lodges, trying to sample as much as possible around there. Then we moved to the next sampling area. Every time we moved from one accommodation to another, we had to load the cars with all our belongings, which regularly filled up with kilos of desert sand lifted from the cars. We also loaded petrol cans, as we have been to places where it would not be possible to find a place to refuel.
 ![Alt text](/assets/img/uploads/2022-05-16-2.jpg "Deborah at work with Marco Giardina")
 
 *It is a very practical skill, indeed. Is there anything else you have learned?*
