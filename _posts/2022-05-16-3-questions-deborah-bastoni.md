@@ -3,7 +3,7 @@ date: 2022-05-16T20:00:05.000Z
 layout: post
 title: 3 things I learned doing field work in the Atacama desert, Chile
 subtitle: Field work requires other skills than just laboratory or analytical skills.
-image: /assets/img/uploads/2022-04-11-1.jpg
+image: /assets/img/uploads/2022-05-16-1.jpg
 optimized_image:
 category: 3 Questions to
 tags:
