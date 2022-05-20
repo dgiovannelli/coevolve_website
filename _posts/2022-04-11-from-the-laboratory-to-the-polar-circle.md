@@ -3,6 +3,7 @@ date: 2022-04-11T20:00:05.000Z
 layout: post
 title: From the laboratory to the polar circle, and return
 subtitle: Planning a field work in a polar region, collecting samples, and bringing them back to the laboratories safely
+description: Planning a field work in a polar region, collecting samples, and bringing them back to the laboratories safely
 image: /assets/img/uploads/2022-04-11-1.jpg
 optimized_image:
 category: image
