@@ -8,7 +8,7 @@ description: The ERC CoEvolve project in the media
 ---
 # The ERC CoEvolve project in the media
 
-Follow our hashtag #extremegeobiology on Instagram and check out the social profiles of our team members to stay updated on our work and activities!
+Follow our hashtag [#extremegeobiology](https://www.instagram.com/explore/tags/extremegeobiology/) on Instagram and check out the social profiles of our team members to stay updated on our work and activities!
 
 Here some highlights of our presence in the media:
 - "[Extreme learning in Naples](https://www.nature.com/articles/d43978-021-00042-5)", appeared on the April 2021 issue of _Nature Italy_
