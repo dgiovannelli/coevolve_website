@@ -8,9 +8,9 @@ image: /assets/img/uploads/2022-06-21-1.jpg
 optimized_image:
 category: Expeditions
 tags:
-  - Expeditions
+  - expedition
   - Svalbard
-  - Fieldwork
+  - fieldwork
 author: francescomontemagno
 paginate: false
 ---
