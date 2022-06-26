@@ -15,7 +15,7 @@ author: deborahbastoni
 paginate: false
 ---
 
-![Italian Version](/assets/img/icons/ita.png)[Versione in italiano disponibile quí!](/assets/docs/Post 5 Trad Italiano Deborah Bastoni.pdf)
+<img style="float: left;" src="/assets/img/icons/ita.png" width=25px alt="Italian version"><a href="/assets/docs/Post 5 Trad Italiano Deborah Bastoni.pdf" target="_blank">Versione in italiano disponibile quí!</a>
 
 Deborah Bastoni, microbiologist at the Department of Biology at University Federico II (Naples). As she came back from a 3 weeks-long, more than 5000 km driving off road in the Chilean Atacama desert, sampling 38 hot springs in search for extreme life in the Andean mountains reflects on what she learned in the field.
 The trip she joined was a joint [NSF FRES](https://beta.nsf.gov/funding/opportunities/frontier-research-earth-sciences-fres), [ANID](https://www.anid.cl/) and ERC CoEvolve expedition. There were 7 countries participating, an average of 20 people travelling on 5 pick-ups from Antofagasta and return. The overall objective was collecting as many samples as possible on a South to North transect from hot springs along the volcanic arc, the continental expression of the massive ocean plate (the Nazca plate) subducing under the South American plate.
