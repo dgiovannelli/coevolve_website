@@ -11,9 +11,7 @@ tags:
   - expedition
   - Svalbard
   - fieldwork
-author:
-  - francescomontemagno
-  - martinacascone
+author: francescomontemagno and martinacascone
 paginate: false
 ---
 Over the last decades, the Arctic has played an increasingly central role in the global climate change discourse. In this context, the Svalbard archipelago represents one of the research fronts, where researchers are actively trying to understand the impact of global warming on the melting of permafrost and the consequent greenhouse gas emissions.
