@@ -1,5 +1,5 @@
 ---
-date: 
+date: 2022-07-18T14:00:05.000Z
 layout: post
 title: Atacama springs - high and hot
 subtitle: Doing research at high altitude
