@@ -1,7 +1,7 @@
 ---
-date: 2022-07-14T14:00:05.000Z
+date: 
 layout: post
-title: Atacama springs: high and hot
+title: Atacama springs - high and hot
 subtitle: Doing research at high altitude
 description: Calibrating scientific devices in the high Andes - do it with care
 image: /assets/img/uploads/2022-07-14.jpg
