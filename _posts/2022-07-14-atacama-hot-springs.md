@@ -11,7 +11,7 @@ tags:
   - Image
   - Chile
   - fieldwork
-author: jacopopasotti
+author: deborahbastoni
 paginate: false
 ---
 At 4750 meters altitude, a simple task, like calibrating a ph-meter (a device measuring the acidity or alkalinity of a fluid) requires care. Donato Giovannelli, microbiologist and leader of CoEvolve attempts to calibrate the tool, precariously balancing on moving stones in a muddy hot water-fed swamp at Alitar Verte, Northern Chile, not far from the ALMA telescope.
