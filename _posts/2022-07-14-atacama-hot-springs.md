@@ -18,7 +18,7 @@ At 4750 meters altitude, a simple task, like calibrating a ph-meter (a device me
 
 At this altitude the winds and the UV are strong. Oxygen available for breathing is almost half as at sea level, this desaturation of oxygen is what leads people to experience Acute Mountain Sickness, a dangerous condition that the scientists participating to the expedition in northern Chile this year tried to avoid with behavioral precautions, such as recommendations to move very slowly and avoid overstraining.
 
-![Alt text](/assets/img/uploads/2022-07-14-1.jpg "Teamworking. Ph. credit: Jacopo Pasotti")
+![Alt text](/assets/img/uploads/2022-07-14-2.jpg "Teamworking. Ph. credit: Jacopo Pasotti")
 
 The area is covered by plants and it is a crucial spot for birds and all high altitude wildlife, such as viguñas and guanacos. Apart from these rare oasis the region is a barren, volcanic desert in the Andes, stretching from Chile to Bolivia and Peru.These colorful wetlands are rich of life, part of which come from the deep, an underworld rich of life thriving on chemicals from the rocks and heat from the subducting slab of oceanic crust that, from the Pacific Ocean, dips under the South American plate.
 
@@ -26,4 +26,4 @@ Donato Giovannelli and his team measured chemical and physical parameters at the
 
 The expedition was part of a project to study the role of subsurface microbes in subduction zones, funded through the National Science Foundation FRES program (USA), in collaboration with researchers supported by CONICYT (Chile) and the European Research Council ERC CoEvolve project.
 
-![Alt text](/assets/img/uploads/2022-07-14.jpg.jpg "Donato Giovannelli testing a sensor in a hot spring. Ph. credit: Jacopo Pasotti")
+![Alt text](/assets/img/uploads/2022-07-14.jpg "Donato Giovannelli testing a sensor in a hot spring. Ph. credit: Jacopo Pasotti")
