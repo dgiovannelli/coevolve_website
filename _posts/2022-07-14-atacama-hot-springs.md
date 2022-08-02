@@ -23,3 +23,5 @@ The area is covered by plants and it is a crucial spot for birds and all high al
 Donato Giovannelli and his team measured chemical and physical parameters at the source, collected samples of water and soil, with the aim of understanding the subsurface microbial life.
 
 The expedition was part of a project to study the role of subsurface microbes in subduction zones, funded through the National Science Foundation FRES program (USA), in collaboration with researchers supported by CONICYT (Chile) and the European Research Council ERC CoEvolve project.
+
+![Alt text](/assets/img/uploads/2022-07-14.jpg.jpg "Donato Giovannelli testing a sensor in a hot spring. Ph. credit: Jacopo Pasotti")
