@@ -26,4 +26,7 @@ Donato Giovannelli and his team measured chemical and physical parameters at the
 
 The expedition was part of a project to study the role of subsurface microbes in subduction zones, funded through the National Science Foundation FRES program (USA), in collaboration with researchers supported by CONICYT (Chile) and the European Research Council ERC CoEvolve project.
 
+Investigating the microbial communities and geochemical parameters on a large geographical scale along a subduction zone, helps us understand the invisible and otherwise inscrutable subsurface ecosystem, how it is influenced by tectonic processes and how microbes interact with this still little known environment.
+
+
 ![Alt text](/assets/img/uploads/2022-07-14.jpg "Donato Giovannelli testing a sensor in a hot spring. Ph. credit: Jacopo Pasotti")
