@@ -4,7 +4,7 @@ layout: post
 title: How life and rocks interact
 subtitle: Donato Giovannelli talks about the coevolution of life and rocks
 description: Doing fieldwork
-image: /assets/img/uploads/2022-10-31.jpg
+image: https://www.youtube.com/embed/YoG1lMZ_RHA
 optimized_image:
 category: Video
 tags:
