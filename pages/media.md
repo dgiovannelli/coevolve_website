@@ -10,7 +10,15 @@ description: The ERC CoEvolve project in the media
 
 Follow our hashtag [#extremegeobiology](https://www.instagram.com/explore/tags/extremegeobiology/) on Instagram and check out the social profiles of our team members to stay updated on our work and activities!
 
-Here some highlights of our presence in the media:
+Here some of the video of some of the interview and outreach events for the project:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eYGCiCkLbKQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YoG1lMZ_RHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dF59JRSPmnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+And here some highlights of our presence in the media:
 - "[Extreme learning in Naples](https://www.nature.com/articles/d43978-021-00042-5)", appeared on the April 2021 issue of _Nature Italy_
 - Radio interview of Donato Giovannelli at [Radio3 Scienza "Ricerca Estrema"](https://www.raiplaysound.it/audio/2022/02/Radio3-Scienza-del-23022022-97ad3063-e3f3-4f95-a82c-6dd3de522869.html)
 - Article on the use of extremophiles for the green transition "[Microbi utili per la transizione green](https://24plus.ilsole24ore.com/art/cosi-microbi-estremi-diventano-alleati-dall-industria-transizione-green-AEIRUtHB)" appeared on the Sole24Ore newspaper
