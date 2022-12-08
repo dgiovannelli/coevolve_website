@@ -17,6 +17,7 @@ paginate: false
 The gases that envelop geologists, microbiologists and scientists on expedition are foggy, dense or inconsistent. They are so evanescent and yet so fundamental in understanding the processes happening in the Earth's crust, or even beyond.
 Gases, especially volcanic ones, often make sampling as fascinating as it is complex. Indeed, they reach high temperatures and consist of compounds of an acidic nature such as hydrochloric acid (HCl), sulfur dioxide (SO2), and hydrogen sulfide (H2S). 
 Such characteristics make not only the conditions of the expeditions hostile thus forcing scientists to operate with extreme speed and efficiency, but also the sampling becomes tricky.  
+![Alt text](/assets/img/uploads/2022-12-08-2.jpg "Researchers collecting gases in a fumarole in Chile. Ph credit: Jacopo Pasotti")
 In fact, one of the main problems associated with gas sampling derives from the materials used for sampling. 
 Often the collection tubes do not withstand the acidity and corrosiveness typical of some gases; hence the difficulty of sampling and the appearance of possible chemical interference. Further problems are related to the reaction of some species with each other and the detection of some minor species present in trace amounts.
 Limiting such problems is possible thanks to the so-called giggenbach bottles. 
