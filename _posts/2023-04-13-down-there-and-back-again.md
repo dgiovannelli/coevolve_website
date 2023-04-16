@@ -1,8 +1,8 @@
 ---
 date: 2023-04-13T14:00:05.000Z
 layout: post
-title: Down there and back again, a tale of a hydrothermal fluid
-subtitle: A story from an hydrothermal vent
+title: A story from an hydrothermal vent
+subtitle: Down there and back again, a tale of a hydrothermal fluid
 description: Drawing of an hydrothermal vent by Bernardo Barosa
 image: /assets/img/uploads/2023-04-13.jpg
 optimized_image:
@@ -21,7 +21,7 @@ For this reason, I invite you to join me on an adventure, to go on a journey the
 
 What exactly is a hydrothermal vent you may ask by now? Simply, it is where water that percolates down the Earth’s crust, gets heated, and returns back up, where it is discharged at the seafloor in the form of hydrothermal fluids. As you can guess, the reality is a little bit more complicated than that. If you think of it, you might already have an idea of what a hydrothermal vent is; the image that readily comes to mind is that of the black smokers, found at the depths of the oceans, more than 2 km below seawater. These imposing mineral cones ejecting black fluids are quite the sight, especially if you are watching them from a submarine, such as the ones researchers use to study them. However, even though these hydrothermal vents are probably the most known, not by any means are they the only example we can find. You can also encounter, for example, white smokers, such as the ones found at Lost City hydrothermal fields. Another interesting example is Strytan, the empire state building of hydrothermal vents, with a cone composed of a mineral called Saponite reaching a height of 55 meters. There are all the shades of gray in regards to hydrothermal vents, however, their formation always encompasses the same steps, and that is what this story is all about.
 
-![Alt text](/assets/img/uploads/2023-04-13.jpg "Abstract painting of a deep-sea hydrothermal system, illustrating the intricate relationships between the geosphere and the biosphere")
+![Alt text](/assets/img/uploads/2023-04-13-1.jpg "Abstract painting of a deep-sea hydrothermal system, illustrating the intricate relationships between the geosphere and the biosphere")
 
 We will take this journey alongside hydrothermal fluids, and for that reason, we will start alongside the initial liquid that originates them, seawater. As we start percolating with seawater down the Earth’s crust, we are aided by the fact that rocks have some degree of porosity, and cracks in the rocks enable our descent down. When the temperature starts to rise as we go deeper and deeper, we arrive at the first stop - the recharge zone. This location is characterized by the occurrence of geochemical reactions at low temperatures, between seawater, and the rocks from which it is passing through. The importance of these reactions is that there is an exchange of currency, element currency. And when I say it is an exchange of currency, it is because these reactions deplete some elements from seawater, but in turn, it releases other elements that it takes into its pockets. It is evolving (what is formally called hydrothermal fluid evolution), and at each step, becoming less seawater, and more hydrothermal. With this new composition, downward we go. It's getting really hot here as we arrive at the new location, the closest to the heat-source, magma or very hot rocks.
 
