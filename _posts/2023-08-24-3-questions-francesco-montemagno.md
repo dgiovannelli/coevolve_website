@@ -8,11 +8,12 @@ image: /assets/img/uploads/2023-08-24-1.jpg
 optimized_image:
 category: Expeditions
 tags:
-   - Fieldwork
+- Fieldwork
 - Image
 author: elenapanariello
 paginate: false
 ---
+
 ![Alt text](/assets/img/uploads/2023-08-24-4.jpg "Francesco Montemagno")
 Francesco Montemagno, a doctoral student and microbiologist at Giovannelli Lab, participated in the "Aeolian Islands 2022" sampling campaign. The expedition took place over 9 days, during which 15 different sites were sampled, including pools and fumaroles on the islands of Panarea, Stromboli, Vulcano and Lipari. An expedition to extreme environments, however, is not just about "tools of the trade" - such as Falcon and diving fins - but also about skills, feelings and training. Francesco shares his memories related to the expedition, but also about all the skills he brought with him.
 
