@@ -1,5 +1,5 @@
 ---
-date: 2023-011-13T14:00:05.000Z
+date: 2023-11-13T14:00:05.000Z
 layout: post
 title: 5 things I would never go without in the field.
 subtitle: Tools crucial for an expedition.
