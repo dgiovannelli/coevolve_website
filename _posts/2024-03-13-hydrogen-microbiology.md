@@ -39,4 +39,4 @@ Just as an example: discovering a certain abundance of sulfate and organic matte
 What do you think will be the future developments in this area?
 I know that science is rapidly advancing in this field and I strongly believe that, implementing the knowledge about it, we will soon be able to select and monitor hydrogen reservoirs in different areas of our planet. With the actual encouraging premises, the possibility that, in the not-too-distant future, hydrogen gas will become the first green energy source sustaining the entire world society, is not to be underestimated.
 ![Alt text](/assets/img/uploads/2024-03-13-3.jpg)
-(Photos: Jacopo Pasotti, 2023)
+Fotos: Jacopo Pasotti, 2023
