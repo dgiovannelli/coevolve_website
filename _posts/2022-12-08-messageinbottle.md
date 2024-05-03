@@ -27,3 +27,5 @@ A giggenbach is a borosilicate-built glass bottle with a teflon stop valve (poli
 
 What has been collected in the giggenbach bottle will provide valuable information. Indeed, the gases are the window through which scientists understand the past and present history of the place they are examining and, consequently, the ways in which the environment and life affect each other.
 The invention of giggenbach bottles has enabled a huge step forward in the study of volcanic gases and this is due to Werner Friedrich Giggenbach (1937–1997), a German geochemist, geologist and volcanologist who is considered one of the world's leading scientists in the field of volcanic gases and magmatic and geothermal fluids. He therefore enabled the deciphering of the "secret message in the bottle."
+
+Fotos: Jacopo Pasotti, 2022
