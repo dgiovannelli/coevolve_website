@@ -33,7 +33,7 @@ In this photo, taken by Jacopo Pasotti, for example, the colours belong to the A
 Thus, extreme conditions provide the substrate for the proliferation of an enormous microbial diversity reflected in the myriad facets of colours that fascinate and reveal hidden worlds. 
 
 ![Alt text](/assets/img/uploads/2022-12-21-3.jpg "A hot spring with a reference number for sampling, Chile. Ph credit: Jacopo Pasotti")
-
+Fotos: Jacopo Pasotti, 2022
 
 
 
