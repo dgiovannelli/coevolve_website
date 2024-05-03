@@ -37,6 +37,6 @@ The second skill that I consider essential in the field is inventiveness. Someti
 Tools may change, and instruments and cars can break, but you still have to finish your tasks.
 
 ![Alt text](/assets/img/uploads/2023-08-24-3.jpg "Volcano island")
-
+Fotos: Jacopo Pasotti, 2023
 
 
