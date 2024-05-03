@@ -17,3 +17,6 @@ paginate: false
 In this short interview, taken in the field in the Atacama Desert in 2021, Donato Giovannelli explains the essence of the CoEvolve project.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YoG1lMZ_RHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Video: Jacopo Pasotti, 2022
