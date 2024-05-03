@@ -34,3 +34,4 @@ science proceeds with small steps. Collecting samples we have walked just a part
 
 Field work is a crucial part of environmental studies, in particular when studying extreme environments. If you are planning a sampling expedition at this latitude during the winter season, I would suggest considering a few days where the weather conditions won't let you work, and you'll have to stay indoors waiting for the weather to get better. Test your instruments the day you arrive at those temperatures, and do not expect everything to work the first time. At these temperatures, equipment does not always work as expected, and I can assure you that it’s better to find out any malfunctions at the base camp, instead of finding it out on the sampling site.
 ![Alt text](/assets/img/uploads/2022-04-11-3.jpg "Martina Cascone showing samples")
+Fotos: Jacopo Pasotti, 2023
