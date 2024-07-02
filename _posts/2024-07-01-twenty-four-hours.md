@@ -2,7 +2,7 @@
 date: 2024-07-01T14:00:05.000Z
 layout: post
 title: A day in the field
-subtitle: The amazing colours of microbial life
+subtitle: How a full day in the field works!
 description: Description of an expedition day, through a Phd student's eyes 
 image: /assets/img/uploads/2024-05-28-1.jpg
 optimized_image:
