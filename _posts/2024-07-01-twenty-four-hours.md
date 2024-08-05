@@ -21,4 +21,6 @@ Once you reach the sampling site, the first thing you do is observe the area, ma
 
 Often, at the end of workdays, one is very tired, but just thinking about how fascinating and important this work is is enough to feel ready for a new day of discovery and knowledge. Experiences like this allow you to get a broad overview before interpreting the data obtained in the lab. 
 
+(Fotos: Jacopo Pasotti)
+
 ![Alt text](/assets/img/uploads/2024-05-28-2.jpg "Science in the lodge")
