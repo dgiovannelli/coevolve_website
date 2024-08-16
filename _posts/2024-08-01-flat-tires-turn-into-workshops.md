@@ -15,7 +15,9 @@ author: bernardobarosa
 paginate: false
 ---
 
-“Uh oh”. I heard as soon as we stopped the trucks.
+“Uh oh”. 
+
+I heard as soon as we stopped the trucks.
 It is indeed a very interesting thing to hear, while in the middle of the Puna in Argentina, one of the highest plateaus in the world. We had just arrived from sampling a hidden hot spring, half forgotten in an old geological map. We, a team of international researchers from different disciplines and backgrounds, stood together looking at a flat tire. The sun was high at that time of the day, the air was dry, and there was not a single cloud in the sky.
 
 “Alright, let's change the tire and move on to the next site”. Said Donato Giovannelli, a professor of Microbiology at the University of Naples, and leader of the expedition. We were on a tight schedule. We still had 2500 km to go, while we had already left another 2500 km behind us.
@@ -46,7 +48,9 @@ For me, on a more personal note, and as someone just starting my career as a PhD
 
 It reminds me why I like doing it, and why I want to keep doing it.
 Then, a message popped up in the right corner of my computer screen.
+
 “5 minutes of battery left”.
+
 At some point we saw a truck coming in the distance, followed by a small cloud of dust. It was time to pack, new tires were coming, and the next site waiting.
 
 (Photo: Jacopo Pasotti, 2024)
