@@ -48,9 +48,7 @@ For me, on a more personal note, and as someone just starting my career as a PhD
 
 It reminds me why I like doing it, and why I want to keep doing it.
 Then, a message popped up in the right corner of my computer screen.
-
 “5 minutes of battery left”.
-
-At some point we saw a truck coming in the distance, followed by a small cloud of dust. It was time to pack, new tires were coming, and the next site waiting.
+Shortly after receiving this alarming note, we saw a truck coming in the distance, followed by a small cloud of dust. It was time to pack, new tires were coming, and the next site waiting.
 
 (Photo: Jacopo Pasotti, 2024)
