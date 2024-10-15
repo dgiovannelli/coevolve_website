@@ -9,7 +9,7 @@ category: Extreme environments
 tags:
   - Image
   - Explainer
-author: elenapanariello
+author: deborahbastoni
 paginate: false
 ---
 The Earth's subsurface is home to some of the most mysterious and least explored ecosystems. Tucked within the crust, in the myriad cracks and pockets of rock, diverse microbial communities flourish. Microbes harness energy sources that are entirely beyond human reach, thriving in environments radically different from our own surface conditions.
