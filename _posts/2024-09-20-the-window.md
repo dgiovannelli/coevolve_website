@@ -3,6 +3,7 @@ date: 2024-09-20T14:00:05.000Z
 layout: post
 title: Windows to the deep
 subtitle: Rising waters from the deep crust tell us about what lies beneath
+description: Rising waters from the deep crust tell us about what lies beneath
 image: /assets/img/uploads/2024-09-20.jpg
 optimized_image:
 category: Extreme environments
