@@ -3,6 +3,7 @@ date: 2025-01-08T14:00:05.000Z
 layout: post
 title: New Mexico Expedition 2024
 subtitle: In search of deep life in the crust of the North American plate
+description: In search of deep life in the crust of the North American plate
 image: /assets/img/uploads/2025-01-08-01.jpg
 optimized_image:
 category: Expeditions
