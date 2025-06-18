@@ -9,7 +9,7 @@ description: A little more about the science produced in the framework of the ER
 
 # The ERC CoEvolve project: scientific and technical products
 
-The project has started less than a year ago but we already have a number of exciting papers!
+The project is still ongoing and a lot of the more exciting results have yet to be published but we already have a number of exciting papers!
 
 ### Articles
 
