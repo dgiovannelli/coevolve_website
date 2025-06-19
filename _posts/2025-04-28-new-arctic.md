@@ -10,7 +10,7 @@ category: Expeditions
 tags:
   - Photo
   - Fieldwork
-author: donatogiovannelli
+author: gabriellagallo
 paginate: false
 ---
 In the collective imagination, when we think of the North and South Poles, we imagine them as idyllic places, far from everything and perceived as fixed in time, immune to any kind of ongoing change.
