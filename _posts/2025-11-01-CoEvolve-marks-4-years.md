@@ -3,7 +3,7 @@ date: 2025-11-01T14:00:05.000Z
 layout: post
 title: CoEvolve marks 4 years. Where are we?
 subtitle: A Tale of Life
-description: CoEvolve at 4: progress and insights 
+description: CoEvolve at 4 - progress and insights 
 image: /assets/img/uploads/2025-11-01.jpg
 optimized_image:
 category: News
@@ -16,7 +16,7 @@ Recently, the CoEvolve project turned 4 years old. We have slightly less than 1 
 
 The project CoEvolve was funded by the European Research Council with an ERC Starting grant back in 2020. Its goal is to study how trace metals provided by planetary processes can influence microbial functional diversity. It uses microbes from extreme places on Earth to learn more about how Earth and Life evolved together. 
 
->Cover image: the coevolve team around a computer discussing the next sites to sample in Argentina. Image credits: Jacopo Pasotti
+>Cover image: a view from the drone of north-west Island lanscape. Image credits: Jacopo Pasotti
 
 Microorganisms are fundamental for the functioning of the planet and have been the driving force in cycling nutrients and elements since the origin of life on this planet. To control nutrient and element cycling, microorganisms use a complex set of proteins that contain metals at their core used to efficiently control chemical reactions. Because of this relationship, metals and trace elements are crucial for life. At the heart of the CoEvolve project is the idea that the availability of these metals controls what type of chemical reaction the microbes can access, ultimately influencing nutrient and element cycling. The availability of metals has dramatically changed during the history of our planet, largely because of the change in oxygen concentrations in the atmosphere. So metals might have controlled to a certain extent the evolution of microbial life itself.
 
