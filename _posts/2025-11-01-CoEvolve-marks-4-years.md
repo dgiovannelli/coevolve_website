@@ -2,8 +2,8 @@
 date: 2025-11-01T14:00:05.000Z
 layout: post
 title: CoEvolve marks 4 years. Where are we?
-subtitle: A Tale of Life
-description: CoEvolve at 4 - progress and insights 
+subtitle: CoEvolve at 4 - progress and insights
+description: the CoEvolve project turned 4 years old. Where do we stand with our objectives and results? 
 image: /assets/img/uploads/2025-11-01.jpg
 optimized_image:
 category: News
