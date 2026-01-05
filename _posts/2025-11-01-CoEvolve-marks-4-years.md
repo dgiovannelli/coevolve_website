@@ -20,7 +20,7 @@ The project CoEvolve was funded by the European Research Council with an ERC Sta
 
 Microorganisms are fundamental for the functioning of the planet and have been the driving force in cycling nutrients and elements since the origin of life on this planet. To control nutrient and element cycling, microorganisms use a complex set of proteins that contain metals at their core used to efficiently control chemical reactions. Because of this relationship, metals and trace elements are crucial for life. At the heart of the CoEvolve project is the idea that the availability of these metals controls what type of chemical reaction the microbes can access, ultimately influencing nutrient and element cycling. The availability of metals has dramatically changed during the history of our planet, largely because of the change in oxygen concentrations in the atmosphere. So metals might have controlled to a certain extent the evolution of microbial life itself.
 
-![Alt text](/assets/img/uploads/2025-11-01.jpg "Sampling in the Puna Plateau in Argentina")
+![Alt text](/assets/img/uploads/2025-11-02.jpg "Sampling in the Puna Plateau in Argentina")
 >Sampling in the Puna Plateau in Argentina. Image credits: Jacopo Pasotti
 
 For the past 4 years the CoEvolve team members have been busy on different fronts. We have set up and organised 3 new laboratories filled with equipment  to carry out all the relevant analyses. One of the labs focuses on the microbiology and microbial physiology of microorganisms, the second lab is equipped for molecular biology, DNA extraction and prepping for sequencing. The third lab is focused on geochemistry, and especially on the analysis of trace metals.
