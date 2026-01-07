@@ -2,8 +2,8 @@
 date: 2026-01-07T14:00:05.000Z
 layout: post
 title: Coevolve Photo Exhibit
-subtitle: Experimenting outreach less explored models: the photo exhibit
-description: Experimenting outreach less explored models: the photo exhibit
+subtitle: Experimenting outreach less explored models. The photo exhibit
+description: Experimenting outreach less explored models. The photo exhibit
 image: /assets/img/uploads/2026-01-07_01.jpeg
 optimized_image:
 category: News
