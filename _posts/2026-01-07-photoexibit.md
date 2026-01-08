@@ -12,7 +12,7 @@ tags:
 author: jacopopasotti
 paginate: false
 ---
-Most of the time, when scientists think about science communication, they think about communication through the media. In particular, their attention is focused on traditional media, newspapers, radio, and television. Increasingly, their attention is also turning to social media.
+When scientists think about science communication, most of the time they think about communication through the media. In particular, their attention is focused on traditional media, newspapers, radio, and television. Increasingly, their attention is also turning to social media.
 
 During the Coevolve project, we wanted to broaden our communication horizons by experimenting with less common models, such as presentations at public events (and even inside sports shops!). The latest experiment we carried out was a photography exhibition.
 
