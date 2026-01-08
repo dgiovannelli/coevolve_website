@@ -16,7 +16,7 @@ When scientists think about science communication, most of the time they think a
 
 During the Coevolve project, we wanted to broaden our communication horizons by experimenting with less common models, such as presentations at public events (and even inside sports shops!). The latest experiment we carried out was a photography exhibition.
 
-The opportunity was provided by a public science outreach event that has been held in the city for many years, Cicapfest, coordinated by the FRAME group, based in Turin. Thanks to them, it was possible to contact the Botanical Garden of Padua and set up the exhibition.
+The opportunity was provided by a public science outreach event that has been held in the city for many years, Cicapfest, coordinated by the [FRAME communication team](https://www.weareframe.it/chi-siamo/), based in Turin. Thanks to them, it was possible to contact the Botanical Garden of Padua and set up the exhibition.
 
 The result was, to say the least, very satisfying and had an even greater impact.
 The exhibition was held in the modern pavilions of the Padua Botanical Garden, one of the oldest botanical gardens in the world. The photographs I collected during four years of participating in expeditions from New Zealand to the Svalbard Islands were printed in large format, including a giant poster composed of four 100x70 cm panels placed side by side. In total, there were 17 images.
